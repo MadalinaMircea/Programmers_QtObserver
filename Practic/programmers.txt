@@ -1,0 +1,4 @@
+Madalina,5,10
+Ioana,2,4
+Doru,0,1
+Naomi,5,7

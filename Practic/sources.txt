@@ -1,0 +1,4 @@
+Problem 1,revised,Madalina,Naomi
+Problem 2,not_revised,Ioana,-
+Problem 3,revised,Naomi,Ioana
+Source 10,revised,Naomi,Doru
